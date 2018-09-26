@@ -1,0 +1,9 @@
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\bin\Debug\netstandard2.0\ClassLibraryNetStandard.deps.json
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\bin\Debug\netstandard2.0\ClassLibraryNetStandard.dll
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\bin\Debug\netstandard2.0\ClassLibraryNetStandard.pdb
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.csprojAssemblyReference.cache
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.AssemblyInfoInputs.cache
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.AssemblyInfo.cs
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.dll
+C:\Users\developer\Develop\LanguageExtTest\ClassLibraryNetStandard\obj\Debug\netstandard2.0\ClassLibraryNetStandard.pdb
