@@ -2406,11 +2406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer\\Develop\\LanguageExtTest\\ClassLibraryNetStandard\\ClassLibraryNetStandard.csproj",
+      "projectUniqueName": "C:\\Users\\developer\\Develop\\language-ext-wpf-test\\LanguageExtTest\\ClassLibraryNetStandard\\ClassLibraryNetStandard.csproj",
       "projectName": "ClassLibraryNetStandard",
-      "projectPath": "C:\\Users\\developer\\Develop\\LanguageExtTest\\ClassLibraryNetStandard\\ClassLibraryNetStandard.csproj",
+      "projectPath": "C:\\Users\\developer\\Develop\\language-ext-wpf-test\\LanguageExtTest\\ClassLibraryNetStandard\\ClassLibraryNetStandard.csproj",
       "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer\\Develop\\LanguageExtTest\\ClassLibraryNetStandard\\obj\\",
+      "outputPath": "C:\\Users\\developer\\Develop\\language-ext-wpf-test\\LanguageExtTest\\ClassLibraryNetStandard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
